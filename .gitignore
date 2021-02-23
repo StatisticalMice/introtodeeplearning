@@ -1,7 +1,8 @@
 .DS_Store
 .ipynb_checkpoints
 
-
+*.wav
+training_checkpoints/
 *.pyc
 *.h5
 lab2/logs/*
